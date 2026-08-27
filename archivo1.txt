@@ -1,3 +1,0 @@
-global user.name
-global
-user.
